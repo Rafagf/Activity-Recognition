@@ -1,4 +1,4 @@
-package com.rippll.motiontest;
+package com.example.activityrecognition;
 
 import android.app.Activity;
 import android.app.PendingIntent;

@@ -1,7 +1,6 @@
-package com.rippll.motiontest;
+package com.example.activityrecognition;
 import android.app.IntentService;
 import android.content.Intent;
-import android.util.Config;
 import android.util.Log;
 
 import com.google.android.gms.location.ActivityRecognitionResult;
